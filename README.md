@@ -1,5 +1,5 @@
-# ***Curso Grátis de Git e GitHub***
-## Material do **Curso de Git e GitHub**, disponível no canal do ~~YouTube~~ .
+# ***Curso de Git e GitHub - Guanabara***
+## Material do **Curso de Git e GitHub**, extraído do ~~YouTube~~ .
 ---
 ### Nesta sessão estou dando ênfase na linguagem **MARKDOWN!**
 
