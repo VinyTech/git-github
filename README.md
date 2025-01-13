@@ -28,3 +28,21 @@ Lista de tarefas:
 - [ ] Criar a página principal
 - [ ] Criar a página da loja
 - [ ] Finalizar a reunião com o cliente.
+
+Tabela:
+
+Num | Nome | Nota
+---|---|---
+1 | Viny | 8,5
+2 | Geysa | 9,0
+3 | Mita | 10
+
+Terminou a tabela.
+
+Postar código:
+
+'''
+print("Olá Mundo!")
+
+'''
+
