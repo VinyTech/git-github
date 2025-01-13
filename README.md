@@ -1,6 +1,6 @@
 # ***Curso de Git e GitHub - Guanabara***
 [Acesse meu GitHub](https://github.com/VinyTech)
-## Material do **Curso de Git e GitHub**, extraído do ~~YouTube~~ .
+## Material do **Curso de Git e GitHub**, extraído do  ~~YouTube~~ .
 ---
 ### Nesta sessão estou dando ênfase na linguagem **MARKDOWN!**
 
